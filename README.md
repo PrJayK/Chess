@@ -1,2 +1,2 @@
 # Chess
-This is the repository for classic two player chess.
+This is a repository for the classic two player chess.
